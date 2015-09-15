@@ -1,0 +1,331 @@
+.fotoInvitacion2{
+	float:left;
+	position: absolute;
+	top: 93px;
+	left: 711px;
+	height: 126px;
+	width: 331px;
+}
+.anchoIndefinido{
+	width: auto;
+}
+.altoIndefinido{
+	height: auto;
+}
+.centrado{
+	margin: 0 auto;
+}
+.div_alLado{
+	float:left;
+}
+.div_otroLado{
+	float:right;
+}
+.ancho_total{
+	width: 980px;
+}
+.margen_cuerpo_presentacion{
+	margin-top: 98px;
+}
+.max_Ancho{
+	max-width: 621px;
+}
+.div_1_presentacion{
+	min-height: 246px;	
+}
+.div_1_presentacion_foto{		/*revisar*/
+	max-width: 920px;
+}
+.margen_texto_presentacion{
+	margin-left: 36px;
+}
+.titulo_texto_presentacion{
+	margin-top: 25px;
+}
+.texto_presentacion{
+	margin-top: 32px;
+}
+.div_2_presentacion{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	background-color: red;
+}
+.texto_2_presentacion{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	max-width: 848px;			
+}								
+.div_3_presentacion{
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	margin: 43px 0 43px 0;
+	background-color: #e7e8e9;
+}
+.caja_texto3_presentacion{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.titulo_texto3_presentacion{
+	margin-bottom: 35px;
+}
+.ancho_max_texto3{
+	max-width: 844px;
+}
+.div_tamano_cuerpo{
+	display: table;
+}
+.margen_a{
+	margin-top: 30px;
+}
+	
+
+/*------------------------------------------------------------------------------------------*/
+.header{
+	position: relative;
+	height: 172px;
+	width: 1200px;
+	margin-bottom: 30px;
+}
+.header1{
+	height: 43px;
+	width: 1200px;
+	background-color: #616264;
+}
+.header11{
+	float:left;
+	height: 43px;
+	width: 347px;
+	margin-left: 350px;
+}
+.header12{
+	float:left;
+	height: 43px;
+	width: 200px;
+	margin-left: 220px;	
+}
+#menuEncabezado1 ul{
+	list-style-type: none;
+}
+#menuEncabezado1 li{
+   	display: inline;
+   	margin: 0 10px 0 0;
+}
+#menuEncabezado1 span{
+   font-size: 15px;
+} 
+#menuEncabezado1 a{
+	text-decoration: none;
+} 
+#menuEncabezado2 ul{
+	list-style-type: none; 
+}
+#menuEncabezado2 li{
+   display: inline;
+   margin: 0 10px 0 0;
+} 
+#menuEncabezado2 span{
+   font-size: 9.25px;
+} 
+#menuEncabezado2 a{
+	text-decoration: none;
+}
+.header2{
+	height: 129px;
+	width: 1200px;
+}
+.fotoLogo{
+	position: absolute;
+	top:8px;
+	float: left;
+	margin-left: 160px;	
+	height: 165px;
+	width: 165px;
+	z-index: 1;
+}
+.fotoBienvenida{
+	position: absolute;
+	top: 62px;
+	float: left;
+	margin-left: 360px;	
+	height: 120px;
+	width: 314px;
+}
+.fotoInvitacion{
+	position: absolute;
+	top: 94px;
+	float: left;
+	margin-left: 834px;	
+	height: 81px;
+	width: 212px;
+}
+.footer{
+	margin-top: 35px;
+	margin-bottom: 23px;
+/*	width: auto;
+	margin: auto;
+	height: auto;	*/
+}
+.paginaTotal{
+	height: auto;
+	width: 1200px;
+}
+.cuerpoPagina{
+	margin: auto;
+	height: auto;
+	width: 907px;
+}
+.grupoPrincipal{
+	height: 363px;
+	width: 907px;
+}
+.fotoMasMenu{
+	float: left;
+	margin-left: 10px; 	
+	height: 363px;
+	width: 707px;
+}
+.fotoPrincipal{
+	height: 298px;
+	width: 707px;
+	margin-bottom: 16px;
+	background-color: #96989b;
+}
+.menuPostFoto{
+	height: 49px;
+	width: 707px;
+	background-color: #96989b;
+}
+.CantidadOferta{
+	float: left;
+	margin-top: 46px;
+	margin-left: 53px;	
+	height: 313px;
+	width: 76px;
+}
+.OfertaChefs{
+	height: 135;
+	width: 70px;
+	margin-bottom: 43px;
+}
+.OfertaPlatos{
+	height: 134px;
+	width: 76px;
+}
+.imagenCantChefs{
+	height: 59px;
+	width: 66px;
+	margin-bottom: 7px;
+}
+.imagenCantPlatos{
+	height: 60px;
+	width: 73px;
+	margin-bottom: 7px;
+}
+.CantidadRepertorio{
+	height: auto;
+	width: 68px;
+	margin-bottom: 10px;
+}
+.textoRepertorio{
+	height: 12px;
+	width: 66px;
+}
+.ZonaMitad{
+	margin-left: 10px;
+	margin-top: 37px;
+	margin-bottom: 27px;
+	height: 71px;
+	width: 897px;
+	background-color: #96989b;
+}
+.textoMitad{
+	margin-top: 24px;
+	margin-bottom: 24px;
+	text-align: center;
+	height: 23px;
+	width: auto;
+}
+.carrucel{
+	height: 381px;
+	width: 907px;
+	background-color: #96989b;
+}
+.cuerpoConfCompra{
+	margin: auto;
+	height: auto;
+	width: 876px;
+}
+.titulo_opciones{
+	height: 105px;
+	width: 876px;
+	margin-bottom: 45px;
+}
+.titulo_o{
+	height: 44px;
+	width: 505px;
+	margin-bottom: 11px;
+	background-color: #96989b;
+}
+.o_opciones{
+	height: 50px;
+	width: 876px;
+}
+.datosChef{
+	height: 432px;
+	width: 608px;
+	margin: auto;
+}
+.nombre_menu{
+	height: 47px;
+	width: 209px;
+	margin-bottom: 10px; 
+}
+.nombre_m{
+	height: 20px;
+	width: 208px;
+	margin-bottom: 12px;
+	background-color: #96989b;
+}
+.m_menu{
+	height: 15px;
+	width: 113px;
+	background-color: #96989b;
+}
+.cuadroDatos{
+	margin: auto;
+	height: 375px;
+	width: 608px;
+	background-color: #96989b;
+}
+.divBotonConfirmarCompra{
+	height: 57px;
+	width: 255px;
+	margin-top: 22px;
+	margin-left: 476px;
+}
+.botonConfirmarCompra{
+	height: 57px;
+	width: 255px;
+/*	border-radius: 15px;	*/
+}
+.contacto{
+	margin: auto;
+	height: auto;
+	width: 876px;
+}
+.contactoTexto{
+	margin: auto;
+	height: 71px;
+	width: 874px;
+	margin-bottom: 36px;
+	background-color: #96989b;
+}
+.contactoCuadro{
+	height: 369px;
+	width: 876px;
+	background-color: #96989b;
+}
+
+/* Nuevos-------------------------------------------------------------------------------------*/
+

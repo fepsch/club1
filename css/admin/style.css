@@ -1,0 +1,140 @@
+/* 
+    Document   : style
+    Created on : 25-feb-2014, 13:20:47
+    Author     : home
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+body{
+    background: url('../../images/fondo.png') no-repeat ;
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+background-attachment: fixed !important;
+}
+
+#codeigniter_profiler{
+    display: none;
+}
+
+li{
+    list-style:  none;
+}
+
+.buscador-box{
+    margin-top: 20px;
+}
+
+.simplePagerNav>li {
+float: left;
+margin-right: 10px;
+}
+
+#footer{
+    background: #e3a940;
+color: #fff;
+padding: 20px 0;
+
+}
+
+.top-bar, .top-bar *{
+    background: #e3a940 !important;
+}
+
+.top-bar .divider{
+    border-right: #fff solid 1px !important;
+}
+
+.top-bar a:hover{
+    /*background: red !important;*/
+    opacity: 0.8;
+}
+
+.top-bar{
+    margin-top: -50px;
+
+}
+
+.logo{
+    background: url('../../images/logo-cdlc.png') no-repeat;
+    height: 200px;
+    width: 300px;
+    background-size: 150px;
+    margin-left: 20px;
+    z-index: 999;
+}
+
+#content {
+  background: url('../../images/cuadro.png');
+  padding-bottom: 20px;
+}
+
+.img-experiencia {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+
+.img-experiencia img {
+    width: 100%;
+}
+
+.img-prev-plato {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.img-prev-plato img {
+    width: 100px;
+}
+
+
+.login-admin {
+    padding-top: 20px;
+}
+
+.rem-extra-padding {
+    padding: 0px !important;
+}
+
+.simplePagerNav>li>a{
+
+border: 1px solid #e3a940;
+padding: 5px;
+background: #e3a940;
+border-radius: 15px;
+color: #fff;
+}
+
+.simplePagerNav .currentPage a{
+    background: #fff;
+    color: #e3a940;
+}
+
+#formulario input[type=checkbox]{
+    margin-right: 10px !important;
+}
+
+fieldset legend{
+    background: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

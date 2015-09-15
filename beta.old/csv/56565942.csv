@@ -1,0 +1,4 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"223","235","23","2014-12-10 00:00:00","26000","6","Av. La Pata 43","10","98277718","","4","modificada la fecha","Pagada","Il","Perro callejero",
+"211","97","1","2014-12-05 23:00:00","7500","2","huerfanos 770","11","22631799","","4","","Pagada","Manuel","Experiencia de test 1",
+"213","97","1","2014-12-05 16:00:00","7500","2","huerfanos 770","10","22631799","","4","","Pagada","Manuel","Experiencia de test 1",

@@ -1,0 +1,6 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"236","15","1","2015-02-11 20:00:00","10","4","agua santa 213123","11","12312312","","2","","Rechazada","Gonzalo","Experiencia de test 1",
+"240","212","20","2015-02-09 10:00:00","208","2","vccv 42","11","42353453","","4","","Pagada","Pedro","Mi Buenos Aires querido",
+"228","16","1","2015-02-06 16:00:00","7500","2","aaa 123","10","12312312","","1","","Reservada","Cristian","Experiencia de test 1",
+"232","92","20","2015-02-05 11:00:00","2098","3","vxcg 423","12","55565556","","1","","Reservada","Admin","Mi Buenos Aires querido",
+"233","212","20","2015-02-05 09:00:00","2098","2","dfsaf 321","10","43224322","","2","","Rechazada","Pedro","Mi Buenos Aires querido",

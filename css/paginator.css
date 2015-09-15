@@ -1,0 +1,77 @@
+/**************************************************
+Estilo del paginador *
+***************************************************/
+ul.pagination1 li:hover,
+ul.pagination2 li:hover,
+ul.pagination3 li:hover {
+    background-color: #FF9500;
+}
+
+ul.pagination1 li,
+ul.pagination2 li,
+ul.pagination3 li {
+    padding: 10px;
+    font-family: georgia;
+    background-color: #8890FC;
+    font-size: 24px;
+    color: #fff;
+    line-height: 1;
+    width: 600px;
+    margin-bottom: 1px;
+    list-style:none;
+}
+
+ul.red {
+    outline:10px solid red;
+}
+
+ul.pagination {
+    min-height: 260px;
+}
+
+ul.simplePagerNav {
+    float: right;
+    clear: both;
+    margin-right: 100px;
+}
+
+ul.simplePagerNav li{
+    display:block;
+    float: left;
+    padding: 10px;
+    margin-top: 10px;
+    font-size:22px;
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-style: italic;
+    color: white;
+    margin-right: 1px;
+}
+
+ul.simplePagerNav li a{
+    color: grey;
+    text-decoration: none;
+}
+
+ul.simplePagerNav li.currentPage {
+    background: red;
+    background: black;
+    border: 1px solid white;
+}
+
+ul.simplePagerNav li.currentPage a {
+    color: #fff;	
+}
+
+table.pageme {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+}  
+
+table.pageme td {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+}
+/***********************************************
+Fin estilo paginador
+************************************************/

@@ -1,0 +1,3 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"172","92","5","2014-11-03 19:00:00","147875","8","calle a 22","55","12345678","","1","","Reservada","Admin","Una noche en Texas",
+"79","92","5","2014-06-24 21:58:00","46800","1","las nalcas 222","0","99999999","","2","","Rechazada","Admin","Una noche en Texas",

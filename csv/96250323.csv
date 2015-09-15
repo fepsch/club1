@@ -1,0 +1,4 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"252","250","21","2015-05-13 20:00:00","68000","6","Hermanos cabot 6777 Casa/Depto. 46","39","42151642","","1","","Reservada","Nicole","Fettuccinis Colorado",
+"251","248","21","2015-04-30 20:00:00","85000","12","Vaticano 3974 Casa/Depto. 24","39","94857823","1","5","","Terminada","Beatriz ","Fettuccinis Colorado",
+"184","212","19","2014-11-20 22:00:00","91750","2","fs 43","34","42345252","","1","","Reservada","Pedro","Del Pacífico a tu Paladar",

@@ -1,0 +1,8 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"172","92","5","2014-11-03 19:00:00","147875","8","calle a 22","55","12345678","","1","","Reservada","Admin","Una noche en Texas",
+"171","16","1","2014-10-31 16:00:00","7500","2","123 12","12","12341234","","1","","Reservada","Cristian","Experiencia de test 1",
+"170","16","1","2014-10-30 21:00:00","7500","2","123 123","11","12341234","","4","","Pagada","Cristian","Experiencia de test 1",
+"161","16","1","2014-10-30 15:00:00","15000","2","sqwdq 123","12","12345678","","1","","Reservada","Cristian","Experiencia de test 1",
+"167","193","1","2014-10-29 18:00:00","11250","3","aa 1","52","12345678","","1","","Reservada","Guille","Experiencia de test 1",
+"169","202","1","2014-10-29 11:00:00","7500","2","agua santa 213123","12","12312312","","4","","Pagada","Manuel","Experiencia de test 1",
+"168","202","1","2014-10-29 10:00:00","7500","2","asdfasdf 213123","11","12312312","","1","","Reservada","Manuel","Experiencia de test 1",

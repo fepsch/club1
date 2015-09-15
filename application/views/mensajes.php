@@ -1,0 +1,1 @@
+<div id="no-data"><?= $mensaje; ?></div>

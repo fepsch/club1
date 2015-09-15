@@ -1,0 +1,6 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"96","25","1","2014-08-20 18:00:00","60000","4","asdfasdf 39","0","12312312","","2","","Rechazada","Manuel","Experiencia de test 1",
+"102","25","1","2014-08-20 18:00:00","60000","4","agua santa 39","0","12151518","","2","","Rechazada","Manuel","Experiencia de test 1",
+"88","196","1","2014-08-14 18:00:00","15000","2","mapocho 123","0","12334324","","2","","Rechazada","Eduardo","Experiencia de test 1",
+"90","15","1","2014-08-14 17:00:00","15000","2","qasdas 234","0","234","","2","","Rechazada","Gonzalo","Experiencia de test 1",
+"100","92","6","2014-08-12 19:00:00","350004","6","AA 22","0","1234","","2","","Rechazada","Admin","Sazón criolla",

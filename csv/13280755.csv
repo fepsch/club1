@@ -1,0 +1,4 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"256","260","14","2015-06-09 20:00:00","114000","6","augusta gerona 1580 Casa/Depto. 82","61","81383462","","4","","Pagada","CONSTANZA","De las aguas a tu mesa",
+"254","258","26","2015-06-01 00:00:00","184250","8","CAMINO LAS FLORES 10480 Casa/Depto. casa","61","92405186","","5","Cambiada la fecha - no llegaron comprobantes","Terminada","maria soledad ","Bosque Mágico",
+"255","258","26","2015-05-30 20:00:00","184250","7","camino las flores 10480 Casa/Depto. casa","61","92405186","","1","","Reservada","maria soledad ","Bosque Mágico",

@@ -1,0 +1,16 @@
+IDCOMERCIO = 597031240956
+MEDCOM = 1
+TBK_KEY_ID = 101
+PARAMVERIFCOM = 1
+URLCGICOM = http://www.clubdelacocina.cl/beta/TB/cgi-bin/tbk_bp_resultado.cgi
+SERVERCOM = 66.33.205.6
+PORTCOM = 80
+WHITELISTCOM = ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 0123456789./:=&?_
+HOST = 66.33.205.6
+WPORT = 80
+URLCGITRA = /cgi-bin/bp_revision.cgi
+URLCGIMEDTRA = /cgi-bin/bp_validacion.cgi
+SERVERTRA = https://webpay.transbank.cl
+PORTTRA = 443
+PREFIJO_CONF_TR = HTML_
+HTML_TR_NORMAL = http://www.clubdelacocina.cl/beta/TB/compra.php

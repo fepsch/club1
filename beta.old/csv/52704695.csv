@@ -1,0 +1,6 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"178","219","20","2014-11-13 16:00:00","107520","6","jghv 757","14","68764968","","1","","Reservada","Bernardita","Mi Buenos Aires querido",
+"174","217","20","2014-11-04 21:00:00","144480","9","avenida siempre viva 2020","55","77767776","","1","","Reservada","Perrito","Mi Buenos Aires querido",
+"175","217","20","2014-11-04 21:00:00","131040","8","avenida siempre viva 2020","55","77767776","","1","","Reservada","Perrito","Mi Buenos Aires querido",
+"176","217","20","2014-11-04 21:00:00","131040","8","avenida siempre viva 2020","55","77767776","","5","","Terminada","Perrito","Mi Buenos Aires querido",
+"183","212","20","2014-11-01 21:00:00","131040","8","dsad 432","52","77767776","","5","","Terminada","Pedro","Mi Buenos Aires querido",

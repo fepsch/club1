@@ -1,0 +1,4 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"120","97","1","2014-09-18 13:00:00","15000","2","asdfasdf 213123","10","12312312","","4","","Pagada","Manuel","Experiencia de test 1",
+"115","92","1","2014-09-11 13:00:00","60000","4","lala 12","11","23543543","","5","","Terminada","Admin","Experiencia de test 1",
+"114","16","1","2014-09-10 19:00:00","15000","2","aaa 1","10","12341234","","5","","Terminada","Cristian","Experiencia de test 1",

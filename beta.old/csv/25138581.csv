@@ -1,0 +1,7 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"241","92","9","2015-02-21 13:00:00","1","6","calle 1","10","61687576","","4","","Pagada","Admin","vaca al pollo",
+"239","15","1","2015-02-20 13:00:00","5","2","agua santa 213123","11","12312312","","4","","Pagada","Gonzalo","Experiencia de test 1",
+"238","15","1","2015-02-19 20:00:00","5","2","agua santa 39","10","12312312","","2","","Rechazada","Gonzalo","Experiencia de test 1",
+"237","15","1","2015-02-18 20:00:00","10","4","agua santa 213123","10","12312312","","2","","Rechazada","Gonzalo","Experiencia de test 1",
+"235","202","1","2015-02-17 14:00:00","7500","2","isla mocha 033","10","12345678","","1","","Reservada","Manuel","Experiencia de test 1",
+"236","15","1","2015-02-11 20:00:00","10","4","agua santa 213123","11","12312312","","2","","Rechazada","Gonzalo","Experiencia de test 1",

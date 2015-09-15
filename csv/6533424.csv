@@ -1,0 +1,4 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"257","266","8","2015-08-13 21:00:00","126000","14","Los Militares 4915 Casa/Depto. 173","61","68397202","","1","","Reservada","LEANDRO ","Vacunos",
+"258","266","8","2015-08-13 21:00:00","126000","14","LOS MILITARES 4915 Casa/Depto. 173","61","68397202","","2","","Rechazada","LEANDRO ","Vacunos",
+"259","266","8","2015-08-13 21:00:00","126000","14","LOS MILITARES 4915 Casa/Depto. 173","61","68397202","","4","","Pagada","LEANDRO ","Vacunos",

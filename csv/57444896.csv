@@ -1,0 +1,6 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"221","97","1","2014-12-17 22:00:00","7500","2","huerfanos 770","34","22631799","","2","","Rechazada","Manuel","Experiencia de test 1",
+"222","202","1","2014-12-17 21:00:00","7500","2","agua santa 213123","11","12312312","","1","","Reservada","Manuel","Experiencia de test 1",
+"223","235","23","2014-12-10 00:00:00","26000","6","Av. La Pata 43","10","98277718","","4","modificada la fecha","Pagada","Il","Perro callejero",
+"211","97","1","2014-12-05 23:00:00","7500","2","huerfanos 770","11","22631799","","4","","Pagada","Manuel","Experiencia de test 1",
+"213","97","1","2014-12-05 16:00:00","7500","2","huerfanos 770","10","22631799","","4","","Pagada","Manuel","Experiencia de test 1",

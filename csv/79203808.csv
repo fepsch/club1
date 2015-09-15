@@ -1,0 +1,4 @@
+"idActividad","idUsuarioCliente","idExperiencia","fecha","valor","pasajeros","direccion","comuna","nroContacto","evaluacion","idEstado","comentarioActividad","nombreEstado","nombreUsuario","nombreExperiencia",
+"243","218","1","2015-04-03 20:00:00","10","4","irarrazaval 2134","13","99992896","","2","","Rechazada","Guaso","Experiencia de test 1",
+"245","93","6","2015-03-26 21:00:00","112000","14","jdjasoij 646","11","87643676","","1","","Reservada","Pedro","Lechón",
+"246","15","16","2015-03-22 12:00:00","168000","6","agua santa 213123","11","12312312","","2","","Rechazada","Gonzalo","Chile. Cocina de fin del mundo",
