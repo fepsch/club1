@@ -1,7 +1,7 @@
 <div id="contenedor-portada">
-    <div class="mensaje-imagen-home">
+   <!-- <div class="mensaje-imagen-home">
         <img src="<?= base_url('images/mensaje-imagen-home.png'); ?>" />
-    </div>
+    </div> -->
     <div id="slide-home" class="float-left">
         <?php foreach ($slides as $slide): ?>
             <img src="<?= base_url('slides/' . $slide); ?>">
@@ -76,11 +76,11 @@
             active: false,
             // [boolean] Generate the play and stop buttons.
             // You cannot use your own buttons. Sorry.
-            effect: "slide",
+            effect: "fade",
             // [string] Can be either "slide" or "fade".
-            interval: 5000,
+            interval: 2500,
             // [number] Time spent on each slide in milliseconds.
-            auto: false,
+            auto: true,
             // [boolean] Start playing the slideshow on load.
             swap: true,
             // [boolean] show/hide stop and play buttons
